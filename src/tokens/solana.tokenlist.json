@@ -36729,6 +36729,18 @@
     },
     {
       "chainId": 101,
+      "address": "H8xXckpr5nvMvsh9zkdeoW1X2TTpqRbHgBRpLoKtJwwp",
+      "symbol": "WIZZ",
+      "name": "Pixel Wizards",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H8xXckpr5nvMvsh9zkdeoW1X2TTpqRbHgBRpLoKtJwwp/logo.png",
+      "tags": [
+        "community-token",
+        "utility token"
+      ],
+      },
+    {
+      "chainId": 101,
       "address": "7ErrAxG4JHjrmohEu4gAjccdTBvc3ZxxLfxeBh1XkdNj",
       "symbol": "MICH",
       "name": "MichMich",
